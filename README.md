@@ -1,4 +1,4 @@
-# poll
+# zhxy
 
 # 原型地址
 ## http://120.78.164.247/poll/start.html
@@ -12,6 +12,9 @@
 ``` bash
 # install dependencies
 npm install
+npm install element-ui
+npm install axios
+npm install mavon-editor
 
 # serve with hot reload at localhost:8080
 npm run dev
